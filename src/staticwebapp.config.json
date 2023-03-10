@@ -1,0 +1,7 @@
+{
+  "forwardingGateway": {
+    "allowedForwardedHosts": [
+      "swa-mf-b9bpbmbhhde6eqda.z01.azurefd.net"
+    ]
+  }
+}
